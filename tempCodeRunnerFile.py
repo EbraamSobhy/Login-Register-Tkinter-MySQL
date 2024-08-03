@@ -1,0 +1,1 @@
+        # self.window.config(bg = "white")
